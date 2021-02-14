@@ -1,4 +1,4 @@
-# meta-labs-middleman
+# meta-labs-middleman-ts
 meta-labs-middleman is a boilerplate to serve authentication requests with the Meta Labs API. It can be adjusted to your needs easily.
 
 ## Contributing

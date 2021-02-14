@@ -16,7 +16,7 @@ const IS_DEV = process.env.IS_DEV === "true";
 const META_API_KEY = process.env.META_API_KEY;
 
 // Set up Express App
-const app = express();
+const app: express.Application = express();
 
 // Set up Middleware
 app.use(helmet());
